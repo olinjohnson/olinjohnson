@@ -27,3 +27,9 @@ Here are some ideas to get you started:
 
 Check out [Rosalind](https://rosalind.info) <br/>
 Check out [Project Euler](https://projecteuler.net)
+
+[My GitHub Pages](https://olinjohnson.github.io)
+
+[2048 Clone](https://github.com/olinjohnson/2048-Game-Clone)
+[Minesweeper Clone](https://github.com/olinjohnson/Minesweeper-game-clone)
+[Sudoku Solver and Generator](https://github.com/olinjohnson/sudoku)
