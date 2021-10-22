@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,10 +12,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+Hi it's Olin reporting for duty
 
-🔭 I’m currently working on ...
+🔭 I’m currently working on:
 <ul>
   <li>Unity multiplayer/networking</li>
   <li>A simple handwritten digit neural network</li>
-  <li>CTF!</li>
 </ul>
+
+🌱 I’m currently learning:
+<ul>
+  <li>[CTF!](https://picoctf.org)</li>
+  <li>Game theory</li>
+  <li>NN programming</li>
+</ul>
+
+Check out [Rosalind](https://rosalind.info) <br/>
+Check out [Project Euler](https://projecteuler.net)
