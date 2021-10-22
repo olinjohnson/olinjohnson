@@ -1,4 +1,4 @@
-### Olin Johnson
+# Olin Johnson
 
 <!--
 **olinjohnson/olinjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on ...
+<ul>
+  <li>Unity multiplayer/networking</li>
+  <li>A simple handwritten digit neural network</li>
+  <li>CTF!</li>
+</ul>
