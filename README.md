@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-Hi it's Olin reporting for duty
-
 🔭 I’m currently working on:
 <ul>
   <li>Unity multiplayer/networking</li>
@@ -22,7 +20,7 @@ Hi it's Olin reporting for duty
 
 🌱 I’m currently learning:
 <ul>
-  <li>[CTF!](https://picoctf.org)</li>
+  <li><a href="picoctf.org">CTF!</a></li>
   <li>Game theory</li>
   <li>NN programming</li>
 </ul>
