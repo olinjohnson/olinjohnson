@@ -30,6 +30,6 @@ Check out [Project Euler](https://projecteuler.net)
 
 [My GitHub Pages](https://olinjohnson.github.io)
 
-[2048 Clone](https://github.com/olinjohnson/2048-Game-Clone)
-[Minesweeper Clone](https://github.com/olinjohnson/Minesweeper-game-clone)
-[Sudoku Solver and Generator](https://github.com/olinjohnson/sudoku)
+[2048 Clone](https://github.com/olinjohnson/2048-Game-Clone) <br/>
+[Minesweeper Clone](https://github.com/olinjohnson/Minesweeper-game-clone) <br/>
+[Sudoku Solver and Generator](https://github.com/olinjohnson/sudoku) <br/>
