@@ -21,9 +21,11 @@ Howdy, Olin here
 
 🌱 I’m currently learning:
 <ul>
-  <li><a href="picoctf.org">CTF</a> and pentesting learning</li>
+  <li><a href="picoctf.org">CTF</a></li>
+  <li>Pentesting</li>
   <li>Game theory</li>
-  <li>Neural network math and programming</li>
+  <li>Neural networks (math and programming)</li>
+  <li>iOS development with iWatch and HealthKit</li>
 </ul>
 
 Check out [Rosalind](https://rosalind.info) <br/>
