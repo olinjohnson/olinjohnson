@@ -21,8 +21,7 @@ Howdy, Olin here
 
 🌱 I’m currently learning:
 <ul>
-  <li><a href="picoctf.org">CTF</a></li>
-  <li>Pentesting</li>
+  <li><a href="picoctf.org">CTF</a> and pentesting</li>
   <li>Game theory</li>
   <li>Neural networks (math and programming)</li>
   <li>iOS development with iWatch and HealthKit</li>
