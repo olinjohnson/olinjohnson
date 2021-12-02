@@ -27,9 +27,6 @@ Howdy, Olin here
   <li>iOS development with iWatch and HealthKit</li>
 </ul>
 
-Check out [Rosalind](https://rosalind.info) <br/>
-Check out [Project Euler](https://projecteuler.net)
-
 [My GitHub Pages](https://olinjohnson.github.io)
 
 [2048 Clone](https://github.com/olinjohnson/2048-Game-Clone) <br/>
