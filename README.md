@@ -17,6 +17,7 @@ Howdy, Olin here
 <ul>
   <li>Unity multiplayer/networking</li>
   <li>A simple handwritten digit neural network</li>
+  <li>Discord bots</li>
 </ul>
 
 🌱 I’m currently learning:
