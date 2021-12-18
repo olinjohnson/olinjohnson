@@ -17,15 +17,15 @@ Howdy, Olin here
 <ul>
   <li>Unity multiplayer/networking</li>
   <li>A simple handwritten digit neural network</li>
-  <li>Discord bots</li>
+  <li>A DIY chess engine</li>
 </ul>
 
 🌱 I’m currently learning:
 <ul>
-  <li><a href="picoctf.org">CTF</a> and pentesting</li>
-  <li>Game theory</li>
+  <li>CTF and pentesting</li>
   <li>Neural networks (math and programming)</li>
   <li>iOS development with iWatch and HealthKit</li>
+  <li>Chess programming</li>
 </ul>
 
 [My GitHub Pages](https://olinjohnson.github.io)
