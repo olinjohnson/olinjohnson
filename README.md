@@ -15,9 +15,8 @@ Howdy, Olin here
 
 🔭 I’m currently working on:
 <ul>
-  <li>Unity multiplayer/networking</li>
-  <li>A simple handwritten digit neural network</li>
   <li>A DIY chess engine</li>
+  <li>One other secret project...</li>
 </ul>
 
 🌱 I’m currently learning:
@@ -26,6 +25,7 @@ Howdy, Olin here
   <li>Neural networks (math and programming)</li>
   <li>iOS development with iWatch and HealthKit</li>
   <li>Chess programming</li>
+  <li>Crypto</li>
 </ul>
 
 [My GitHub Pages](https://olinjohnson.github.io)
