@@ -22,8 +22,6 @@ Howdy, Olin here
 🌱 I’m currently learning:
 <ul>
   <li>CTF and pentesting</li>
-  <li>Neural networks (math and programming)</li>
-  <li>iOS development with iWatch and HealthKit</li>
   <li>Chess programming</li>
   <li>Crypto</li>
 </ul>
