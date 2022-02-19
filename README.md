@@ -19,9 +19,9 @@ Howdy, Olin here
   <li>One other secret project...</li>
 </ul>
 
-🌱 I’m currently learning:
+🌱 I’m currently learning about:
 <ul>
-  <li>CTF and pentesting</li>
+  <li>Cybersecurity and CTF</li>
   <li>Chess programming</li>
   <li>Crypto</li>
 </ul>
