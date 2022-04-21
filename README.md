@@ -16,7 +16,7 @@ Howdy, Olin here
 🔭 I’m currently working on:
 <ul>
   <li>A DIY chess engine</li>
-  <li>One other secret project...</li>
+  <li>A stock market game</li>
 </ul>
 
 🌱 I’m currently learning about:
@@ -26,7 +26,7 @@ Howdy, Olin here
   <li>Crypto</li>
 </ul>
 
-[My GitHub Pages](https://olinjohnson.github.io)
+[My Website](https://olinjohnson.github.io)
 
 [2048 Clone](https://github.com/olinjohnson/2048-Game-Clone) <br/>
 [Minesweeper Clone](https://github.com/olinjohnson/Minesweeper-game-clone) <br/>
