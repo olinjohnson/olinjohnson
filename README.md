@@ -16,18 +16,13 @@ Howdy, Olin here
 🔭 I’m currently working on:
 <ul>
   <li>A DIY chess engine</li>
-  <li>A stock market game</li>
 </ul>
 
 🌱 I’m currently learning about:
 <ul>
-  <li>Cybersecurity and CTF</li>
+  <li>Cybersecurity (also CTFs)</li>
   <li>Chess programming</li>
   <li>Crypto</li>
 </ul>
 
 [My Website](https://olinjohnson.github.io)
-
-[2048 Clone](https://github.com/olinjohnson/2048-Game-Clone) <br/>
-[Minesweeper Clone](https://github.com/olinjohnson/Minesweeper-game-clone) <br/>
-[Sudoku Solver and Generator](https://github.com/olinjohnson/sudoku) <br/>
