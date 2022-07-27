@@ -15,6 +15,8 @@ Howdy, Olin here
 
 🔭 I’m currently working on:
 <ul>
+  <li>A Connect 4 AI</li>
+  <li>An Othello AI</li>
   <li>A DIY chess engine</li>
 </ul>
 
@@ -22,7 +24,6 @@ Howdy, Olin here
 <ul>
   <li>Cybersecurity (also CTFs)</li>
   <li>Chess programming</li>
-  <li>Crypto</li>
 </ul>
 
-[My Website](https://olinjohnson.github.io)
+Check out [My Website](https://olinjohnson.github.io)!
