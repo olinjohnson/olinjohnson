@@ -15,7 +15,6 @@ Howdy, Olin here
 
 🔭 I’m currently working on:
 <ul>
-  <li>A Connect 4 AI</li>
   <li>An Othello AI</li>
   <li>A DIY chess engine</li>
 </ul>
