@@ -15,7 +15,7 @@ Howdy, Olin here
 
 🔭 I’m currently working on:
 <ul>
-  <li>An Othello AI</li>
+  <li>Experimenting with Wave Function Collapse</li>
   <li>A DIY chess engine</li>
 </ul>
 
@@ -24,5 +24,3 @@ Howdy, Olin here
   <li>Cybersecurity (also CTFs)</li>
   <li>Chess programming</li>
 </ul>
-
-Check out [My Website](https://olinjohnson.github.io)!
