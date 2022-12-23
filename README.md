@@ -25,4 +25,4 @@ Howdy, Olin here
   <li>Chess programming</li>
 </ul>
 
-Check out [My Website](olinjohnson.github.io)
+Check out [My Website](https://olinjohnson.github.io/)
