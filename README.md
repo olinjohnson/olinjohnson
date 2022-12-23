@@ -24,6 +24,7 @@ Howdy, Olin here
   <li>Cybersecurity (also CTFs)</li>
   <li>Chess programming</li>
   <li>Mobile app dev</li>
+  <li>How to use React</li>
 </ul>
 
 Check out [My Website](https://olinjohnson.github.io/)
