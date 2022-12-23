@@ -15,7 +15,7 @@ Howdy, Olin here
 
 🔭 I’m currently working on:
 <ul>
-  <li>Experimenting with Wave Function Collapse</li>
+  <li>A fun, political science oriented mobile app</li>
   <li>A DIY chess engine</li>
 </ul>
 
@@ -23,6 +23,7 @@ Howdy, Olin here
 <ul>
   <li>Cybersecurity (also CTFs)</li>
   <li>Chess programming</li>
+  <li>Mobile app dev</li>
 </ul>
 
 Check out [My Website](https://olinjohnson.github.io/)
