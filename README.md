@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - ⚡ Fun fact: ...
 -->
 Howdy, Olin here
@@ -17,6 +17,7 @@ Howdy, Olin here
 <ul>
   <li>A fun, political science oriented mobile app</li>
   <li>A DIY chess engine</li>
+  <li>Open source work</li>
 </ul>
 
 🌱 I’m currently learning about:
@@ -28,3 +29,5 @@ Howdy, Olin here
 </ul>
 
 Check out [My Website](https://olinjohnson.github.io/)
+
+📫 How to reach me: nervy.panoply.0w@icloud.com
