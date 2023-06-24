@@ -15,8 +15,7 @@ Howdy, Olin here
 
 🔭 I’m currently working on:
 <ul>
-  <li>A fun, political science oriented mobile app</li>
-  <li>A DIY chess engine</li>
+  <li>A chess engine</li>
   <li>Open source work</li>
 </ul>
 
@@ -24,7 +23,7 @@ Howdy, Olin here
 <ul>
   <li>Cybersecurity (also CTFs)</li>
   <li>Chess programming</li>
-  <li>Mobile app dev</li>
+  <li>Machine Learning</li>
 </ul>
 
 Check out [My Website](https://olinjohnson.github.io/)
