@@ -16,12 +16,13 @@ Howdy, Olin here
 🔭 I’m currently working on:
 <ul>
   <li>A chess engine</li>
+  <li>A machine learning framework</li>
   <li>Open source work</li>
 </ul>
 
 🌱 I’m currently learning about:
 <ul>
-  <li>Cybersecurity (also CTFs)</li>
+  <li>Cybersecurity</li>
   <li>Chess programming</li>
   <li>Machine Learning</li>
 </ul>
