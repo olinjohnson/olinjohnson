@@ -29,4 +29,4 @@ Howdy, Olin here
 
 Check out [My Website](https://olinjohnson.github.io/)
 
-📫 How to reach me: nervy.panoply.0w@icloud.com
+📫 How to reach me: olinlj@icloud.com
