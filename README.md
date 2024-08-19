@@ -30,4 +30,4 @@ Howdy, Olin here
 
 Check out [My Website](https://olinjohnson.github.io/)
 
-📫 How to reach me: olinlj@icloud.com
+📫 How to reach me: olin@olinjohnson.com
