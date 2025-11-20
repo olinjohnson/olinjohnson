@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 
 - ⚡ Fun fact: ...
 -->
-Howdy, Olin here
+Howdy 👋
 
 🔭 I’m currently working on:
 <ul>
   <li>A machine learning framework and chess engine</li>
-  <li>Open source work</li>
   <li>A music/journaling-based iOS app</li>
+  <li>Going to school</li>
 </ul>
 
 🌱 I’m currently learning about:
@@ -26,8 +26,7 @@ Howdy, Olin here
   <li>Chess programming</li>
   <li>Machine Learning</li>
   <li>SwiftUI and iOS app development</li>
+  <li>Other cool stuff</li>
 </ul>
-
-Check out [My Website](https://olinjohnson.github.io/)
 
 📫 How to reach me: olin@olinjohnson.com
